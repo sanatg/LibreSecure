@@ -1,0 +1,9 @@
+cmake
+dlib
+face_recognition
+numpy
+opencv-python
+pyttsx3
+firebase_admin
+pyautogui
+pyrebase
